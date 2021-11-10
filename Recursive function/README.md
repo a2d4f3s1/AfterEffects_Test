@@ -1,6 +1,5 @@
 フォルダの親を探しに行く時は片道を使う  
-` return ( fn_GetTopFolder(Node.parentFolder) );`  
-再帰部分で return を使うのがポイントっぽい
+再帰部分で return を使う`return ( fn_GetTopFolder(Node.parentFolder) );`のがポイントっぽい
 
 testSource_片道再帰関数.jsx の結果
 ```
