@@ -1,0 +1,98 @@
+{
+	"charactors": {
+		"AAA": {
+			"footage": [
+				"col",
+				"lin",
+				"msk_eye",
+				"msk_hair",
+				"msk_hi",
+				"msk_skin"
+			]
+		},
+		"BBB": {
+			"footage": [
+				"col",
+				"lin",
+				"msk_eye",
+				"msk_hair",
+				"msk_hi",
+				"msk_skin"
+			]
+		},
+		"CCC": {
+			"footage": [
+				"col",
+				"lin",
+				"msk_eye",
+				"msk_hair",
+				"msk_hi",
+				"msk_skin"
+			]
+		},
+		"DDD": {
+			"footage": [
+				"col",
+				"lin",
+				"msk_eye",
+				"msk_hair",
+				"msk_hi",
+				"msk_skin"
+			]
+		},
+		"EEE": {
+			"footage": [
+				"col",
+				"lin",
+				"msk_eye",
+				"msk_hair",
+				"msk_hi",
+				"msk_skin"
+			]
+		},
+		"FFF": {
+			"footage": [
+				"col",
+				"lin",
+				"msk_eye",
+				"msk_hair",
+				"msk_hi",
+				"msk_skin"
+			]
+		},
+		"GGG": {
+			"footage": [
+				"col",
+				"lin",
+				"msk_eye",
+				"msk_hair",
+				"msk_hi",
+				"msk_skin"
+			]
+		},
+		"HHH": {
+			"footage": [
+				"col",
+				"lin",
+				"msk_eye",
+				"msk_hair",
+				"msk_hi",
+				"msk_skin"
+			]
+		}
+	},
+	"setting": {
+		"prefix": [
+			"keyName",
+			""
+		],
+		"suffix": [
+			"const",
+			"base"
+		],
+		"Separator": [
+			"const",
+			"_"
+		]
+	}
+}
